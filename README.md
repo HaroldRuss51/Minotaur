@@ -1,2 +1,0 @@
-# Minotaur
-Minotaur code
